@@ -121,7 +121,7 @@ header nav ul li a {
 .section-two,
 .section-three {
 	box-sizing: border-box;
-	padding: 0 40px;
+	padding: 0;
 	width: 100%;
 }
 
@@ -131,8 +131,8 @@ header nav ul li a {
 
 .section-two {
 	/** width: 42%; **/
-	border-left: 5px solid #EEE;
-	border-right: 5px solid #EEE;
+	border-top: 5px solid #EEE;
+	border-bottom: 5px solid #EEE; 
 }
 
 .section-three {
